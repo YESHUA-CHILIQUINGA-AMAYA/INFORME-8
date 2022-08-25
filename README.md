@@ -325,6 +325,8 @@ I, VR y VL, son ondas de forma sinusoidal.
 
 ### 4. VIDEO
 
+https://youtu.be/UhIU_lG-UYA
+
 ### 5. CONCLUSIONES
 
 * A partir de los circuitos RL se tiene una resistencia y una capacitancia, se presentan en circuitos básicos mediante el análisis de los números complejos y la aplicación de potencia y varias formulas que sierven para determinar los valores que se necesitan en los problemas.
